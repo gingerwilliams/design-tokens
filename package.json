@@ -1,0 +1,31 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "description": "Design Tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingerwilliams/design-tokens.git"
+  },
+  "keywords": [
+    "design",
+    "systems"
+  ],
+  "author": "Ginger Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gingerwilliams/design-tokens/issues"
+  },
+  "homepage": "https://github.com/gingerwilliams/design-tokens#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "nodemon": "^1.12.1",
+    "theo": "^6.0.0-beta.7"
+  }
+}

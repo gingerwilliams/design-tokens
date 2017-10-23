@@ -1,0 +1,36 @@
+{
+    "aliases": {
+        //colors
+        "TRANSPARENT": "transparent",
+        //Primary Colors
+        "NEWELL_BLUE": "#298fc2",
+        "NEWELL_GRAY": "#696158",
+        //Secondary Colors
+        "BRAND_BLUE": "#3A5DAE",
+        "BRAND_GREEN": "#1B806D",
+        "BRAND_LIME": "#a8ad00",
+        "BRAND_OCHRE": "#B58500",
+        "BRAND_ORANGE": "#e3721f",
+        "BRAND_RED": "#c04c36",
+        "BRAND_MAGENTA": "#890c58",
+        "BRAND_PURPLE": "#653279",
+        //Grays
+        "WHITE": "#FFFFFF",
+        "SILVER": "#BFBFBF",
+        "GRAY": "#7F7F7F",
+        "MASALA": "#404040",
+        "BLACK": "#000000",
+        //Primary Colors: Blue Shade Variations
+        "CATSKILL_WHITE": "#EEF7FB",
+        "BOTTICELLI": "#CDE7F4",
+        "SEAGULL": "#78BFE2",
+        "ORIENT": "#1D6387",
+        "TARAWEA": "#123E54",
+        //Primary Colors: Gray Shade Variations
+        "WHITESMOKE": "#F6F5F4",
+        "MERCURY": "#E3E1DE",
+        "SILK": "#B5AEA6",
+        "ARMADILLA": "#433E38",
+        "BLACKCOFFEE": "#211F1C"
+    }
+}
